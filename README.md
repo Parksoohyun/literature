@@ -11,4 +11,4 @@ dkdkdkdkdkdkkd
 
 [영상자료](https://youtu.be/5hOD8TmwRAc)
 
-![사진](https://raw.githubusercontent.com/parksoohyun/literature/github.com/Parksoohyun/literature/blob/gh-pages/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20(3).jpg)
+![사진](https://raw.githubusercontent.com/Parksoohyun/literature/blob/gh-pages/다운로드%20(3).jpg)
